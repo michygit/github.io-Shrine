@@ -1,6 +1,8 @@
 baseURL = 'https://michygit.github.io/github.io-Shrine/'
 locale = 'ja-ja'
 title = '深山神社'
+theme = 'beautifulhugo'
+publishDir = 'docs'
 
 [caches]
   [caches.images]
