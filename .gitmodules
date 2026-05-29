@@ -1,0 +1,3 @@
+[submodule "github.io-Shrine"]
+	path = github.io-Shrine
+	url = git@github.com:michygit/github.io-Shrine.git

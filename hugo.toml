@@ -1,0 +1,4 @@
+baseURL = 'https://michygit.github.io/Shrine'
+locale = 'ja'
+title = '深山神社'
+theme = 'beautifulhugo'
