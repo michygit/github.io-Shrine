@@ -3,17 +3,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://michygit.github.io/github.io-Shrine/post/</loc>
-    <lastmod>2026-05-28T10:44:16+09:00</lastmod>
+    <loc>http://localhost:1313/github.io-Shrine/page/</loc>
+    <lastmod>2026-05-29T10:44:16+09:00</lastmod>
   </url><url>
-    <loc>https://michygit.github.io/github.io-Shrine/</loc>
-    <lastmod>2026-05-28T10:44:16+09:00</lastmod>
+    <loc>http://localhost:1313/github.io-Shrine/</loc>
+    <lastmod>2026-05-29T10:44:16+09:00</lastmod>
   </url><url>
-    <loc>https://michygit.github.io/github.io-Shrine/post/first-page/</loc>
-    <lastmod>2026-05-28T10:44:16+09:00</lastmod>
+    <loc>http://localhost:1313/github.io-Shrine/page/main-page/</loc>
+    <lastmod>2026-05-29T10:44:16+09:00</lastmod>
   </url><url>
-    <loc>https://michygit.github.io/github.io-Shrine/categories/</loc>
+    <loc>http://localhost:1313/github.io-Shrine/categories/</loc>
   </url><url>
-    <loc>https://michygit.github.io/github.io-Shrine/tags/</loc>
+    <loc>http://localhost:1313/github.io-Shrine/tags/</loc>
   </url>
 </urlset>
