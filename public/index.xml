@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>深山神社</title>
-		<link>https://michygit.github.io/github.io-Shrine/</link>
+		<link>http://localhost:1313/github.io-Shrine/</link>
 		<description>Recent content on 深山神社</description>
 		<generator>Hugo</generator>
 		<language>ja-ja</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://michygit.github.io/github.io-Shrine/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/github.io-Shrine/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

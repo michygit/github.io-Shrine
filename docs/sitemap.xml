@@ -3,12 +3,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://michygit.github.io/github.io-Shrine/categories/</loc>
-  </url><url>
     <loc>https://michygit.github.io/github.io-Shrine/page/</loc>
-  </url><url>
-    <loc>https://michygit.github.io/github.io-Shrine/tags/</loc>
+    <lastmod>2026-05-30T10:44:16+09:00</lastmod>
   </url><url>
     <loc>https://michygit.github.io/github.io-Shrine/</loc>
+    <lastmod>2026-05-30T10:44:16+09:00</lastmod>
+  </url><url>
+    <loc>https://michygit.github.io/github.io-Shrine/page/main-page/</loc>
+    <lastmod>2026-05-30T10:44:16+09:00</lastmod>
+  </url><url>
+    <loc>https://michygit.github.io/github.io-Shrine/categories/</loc>
+  </url><url>
+    <loc>https://michygit.github.io/github.io-Shrine/tags/</loc>
   </url>
 </urlset>
