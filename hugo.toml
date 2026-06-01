@@ -12,10 +12,10 @@ title = '深山神社'
   favicon = "/img/favicon.ico"
   dateFormat = "2006-01-02"
   colorScheme = "dark"
-  readingTime = true
-  socialShare = true
+  readingTime = false
+  socialShare = false
   showRelatedPosts = true
-  rss = true
+  rss = false
   headerImgStyle = "narrow"
   bigimg = [{src = "img/shrine.jpg", desc = "", position = "center-top"}]
 
@@ -24,9 +24,9 @@ title = '深山神社'
 
 [Params.author]
   name = "Michinori Ichikawa"
-  website = "https://github.com/michygit/github.io"
+#  website = "https://github.com/michygit/github.io"
   email = "michy@gray.plala.or.jp"
-  github = "michygit"
+#  github = "michygit"
 
 [markup.highlight]
   noClasses = false
