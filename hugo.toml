@@ -1,0 +1,38 @@
+baseURL = 'https://michygit.github.io/github.io-Shrine/'
+locale = 'ja-ja'
+title = '深山神社'
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
+[Params]
+  subtitle = "深山神社伝言板"
+  mainSections = ["post", "posts"]
+  logo = "//img/avatar-icon.png"
+  favicon = "/img/favicon.ico"
+  dateFormat = "2006-01-02"
+  colorScheme = "dark"
+  readingTime = true
+  socialShare = true
+  showRelatedPosts = true
+  rss = true
+  headerImgStyle = "narrow"
+  bigimg = [{src = "img/shrine.jpg", desc = "", position = "center-top"}]
+
+[Params.search]
+    provider = 'fuse'
+
+[Params.author]
+  name = "Michinori Ichikawa"
+  website = "https://github.com/michygit/github.io"
+  email = "michy@gray.plala.or.jp"
+  github = "michygit"
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.parser.attribute]
+  block = true
+
+[markup.goldmark.renderer]
+  unsafe = true
