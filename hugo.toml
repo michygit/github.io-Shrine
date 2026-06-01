@@ -26,7 +26,7 @@ title = '深山神社'
   name = "Michinori Ichikawa"
   website = "https://github.com/michygit/github.io"
   email = "michy@gray.plala.or.jp"
-  github = "michygit"
+#  github = "michygit"
 
 [markup.highlight]
   noClasses = false
