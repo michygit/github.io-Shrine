@@ -38,7 +38,9 @@ title = '深山神社'
   unsafe = true
 
 [markup.goldmark.renderHooks.image]
-  useEmbedded = "auto"
+  useEmbedded = "always"
+#[markup.goldmark.renderHooks.image]
+#   enableDefault = true
 [[module.mounts]]
   source = 'assets'
   target = 'assets'
